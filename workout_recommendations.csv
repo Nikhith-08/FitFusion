@@ -1,0 +1,201 @@
+Goal,Workout Type,Duration (mins),Calories Burned (approx.),Exercises,Intensity Level,Frequency (per week)
+Weight Loss,Pilates,62,480,"Squats, Bench Press, Pull-ups, Push-ups",Medium,6
+Endurance,Pilates,32,379,"Burpees, Pull-ups, Lunges, Squats",Medium,4
+Muscle Gain,CrossFit,25,402,"Lunges, Burpees, Push-ups, Bench Press",High,4
+General Fitness,CrossFit,61,333,"Burpees, Push-ups, Jump Rope, Pull-ups",Medium,6
+Muscle Gain,Strength Training,84,398,"Squats, Bench Press, Plank, Deadlifts",Medium,5
+Endurance,Pilates,22,552,"Push-ups, Jump Rope, Deadlifts, Pull-ups",Low,6
+Weight Loss,Pilates,36,459,"Push-ups, Burpees, Jump Rope, Squats",Medium,6
+Muscle Gain,Cardio,67,246,"Bench Press, Deadlifts, Push-ups, Plank",Medium,6
+Muscle Gain,Cardio,67,474,"Pull-ups, Plank, Jump Rope, Burpees",Low,5
+Muscle Gain,Cardio,75,266,"Plank, Bench Press, Lunges, Deadlifts",Low,4
+Weight Loss,Yoga,45,297,"Lunges, Push-ups, Burpees, Bench Press",Medium,3
+General Fitness,Strength Training,56,470,"Push-ups, Bench Press, Burpees, Plank",High,6
+Muscle Gain,Pilates,56,419,"Lunges, Push-ups, Pull-ups, Plank",Low,6
+General Fitness,Yoga,39,470,"Pull-ups, Bench Press, Jump Rope, Burpees",Medium,5
+General Fitness,Yoga,69,514,"Lunges, Deadlifts, Pull-ups, Plank",High,6
+Weight Loss,CrossFit,58,321,"Pull-ups, Lunges, Jump Rope, Bench Press",Low,3
+Weight Loss,CrossFit,35,531,"Pull-ups, Push-ups, Deadlifts, Jump Rope",High,3
+Weight Loss,Pilates,37,420,"Deadlifts, Push-ups, Lunges, Squats",High,4
+General Fitness,CrossFit,26,218,"Pull-ups, Jump Rope, Burpees, Squats",High,3
+Muscle Gain,Strength Training,49,411,"Plank, Burpees, Jump Rope, Lunges",High,6
+Weight Loss,Cardio,60,478,"Bench Press, Plank, Jump Rope, Burpees",Low,5
+Endurance,Strength Training,76,316,"Burpees, Pull-ups, Jump Rope, Deadlifts",High,4
+Endurance,Yoga,30,250,"Lunges, Plank, Deadlifts, Bench Press",Low,6
+Endurance,Cardio,46,437,"Jump Rope, Bench Press, Plank, Burpees",High,6
+Endurance,CrossFit,65,449,"Push-ups, Jump Rope, Deadlifts, Pull-ups",High,5
+Muscle Gain,Strength Training,32,403,"Pull-ups, Squats, Deadlifts, Jump Rope",Medium,6
+General Fitness,Strength Training,73,257,"Lunges, Bench Press, Plank, Deadlifts",High,4
+Muscle Gain,Pilates,65,464,"Lunges, Bench Press, Pull-ups, Plank",Medium,5
+General Fitness,Strength Training,40,507,"Push-ups, Pull-ups, Plank, Bench Press",Medium,6
+Weight Loss,CrossFit,43,490,"Deadlifts, Bench Press, Jump Rope, Pull-ups",Medium,3
+Muscle Gain,Strength Training,73,585,"Deadlifts, Bench Press, Burpees, Squats",Low,4
+Endurance,Strength Training,28,272,"Lunges, Bench Press, Pull-ups, Plank",High,4
+Muscle Gain,Cardio,57,276,"Squats, Pull-ups, Jump Rope, Deadlifts",Medium,3
+Muscle Gain,Pilates,66,315,"Push-ups, Lunges, Jump Rope, Squats",High,4
+Weight Loss,CrossFit,76,413,"Squats, Jump Rope, Burpees, Lunges",Low,4
+Weight Loss,Yoga,73,537,"Bench Press, Squats, Burpees, Jump Rope",Low,3
+Endurance,Pilates,85,235,"Squats, Bench Press, Plank, Push-ups",Low,6
+General Fitness,CrossFit,58,503,"Lunges, Plank, Jump Rope, Push-ups",High,3
+General Fitness,HIIT,54,587,"Pull-ups, Bench Press, Squats, Burpees",Low,6
+Weight Loss,Cardio,42,163,"Pull-ups, Lunges, Bench Press, Plank",Medium,4
+Muscle Gain,Cardio,76,540,"Bench Press, Squats, Plank, Lunges",Medium,6
+General Fitness,Yoga,82,294,"Deadlifts, Lunges, Squats, Jump Rope",Medium,5
+Weight Loss,Cardio,66,168,"Burpees, Lunges, Push-ups, Squats",Medium,5
+Weight Loss,HIIT,23,288,"Pull-ups, Plank, Lunges, Jump Rope",Low,5
+Weight Loss,CrossFit,44,336,"Burpees, Bench Press, Plank, Jump Rope",Low,5
+General Fitness,HIIT,79,546,"Push-ups, Pull-ups, Jump Rope, Plank",High,5
+Endurance,HIIT,37,499,"Lunges, Burpees, Pull-ups, Jump Rope",Medium,4
+Weight Loss,Yoga,28,574,"Push-ups, Squats, Deadlifts, Jump Rope",Low,3
+General Fitness,Cardio,45,176,"Push-ups, Burpees, Pull-ups, Lunges",Low,4
+Endurance,Cardio,58,226,"Plank, Deadlifts, Squats, Burpees",High,6
+Endurance,Yoga,22,358,"Bench Press, Jump Rope, Push-ups, Plank",Medium,6
+Weight Loss,Yoga,42,165,"Lunges, Plank, Jump Rope, Burpees",Low,5
+Muscle Gain,Pilates,83,542,"Pull-ups, Deadlifts, Squats, Bench Press",Low,6
+General Fitness,Strength Training,30,550,"Lunges, Jump Rope, Burpees, Plank",High,5
+Endurance,HIIT,33,307,"Squats, Pull-ups, Jump Rope, Burpees",Low,5
+Endurance,CrossFit,83,204,"Push-ups, Plank, Lunges, Burpees",High,6
+Endurance,Pilates,38,446,"Squats, Pull-ups, Push-ups, Bench Press",Medium,6
+Weight Loss,Cardio,20,295,"Pull-ups, Deadlifts, Burpees, Bench Press",High,3
+General Fitness,Pilates,29,502,"Bench Press, Push-ups, Pull-ups, Deadlifts",High,4
+Muscle Gain,Cardio,23,363,"Pull-ups, Bench Press, Plank, Jump Rope",Low,4
+Weight Loss,Cardio,51,515,"Push-ups, Squats, Jump Rope, Deadlifts",High,3
+Weight Loss,Cardio,45,396,"Squats, Deadlifts, Push-ups, Jump Rope",Low,4
+Endurance,CrossFit,83,338,"Pull-ups, Burpees, Deadlifts, Squats",Low,3
+Muscle Gain,Strength Training,75,487,"Deadlifts, Squats, Jump Rope, Pull-ups",High,4
+Endurance,Cardio,78,176,"Lunges, Squats, Plank, Bench Press",Medium,5
+Endurance,Pilates,25,382,"Push-ups, Plank, Burpees, Lunges",Medium,6
+Weight Loss,Strength Training,57,505,"Pull-ups, Squats, Bench Press, Jump Rope",Medium,3
+Endurance,Pilates,46,321,"Push-ups, Bench Press, Plank, Pull-ups",High,3
+Weight Loss,CrossFit,63,187,"Deadlifts, Burpees, Plank, Push-ups",Medium,3
+General Fitness,Strength Training,24,176,"Lunges, Bench Press, Burpees, Squats",Low,6
+Muscle Gain,HIIT,62,279,"Bench Press, Squats, Burpees, Push-ups",High,4
+Endurance,HIIT,63,345,"Deadlifts, Pull-ups, Plank, Lunges",Medium,3
+Endurance,Strength Training,40,495,"Push-ups, Lunges, Bench Press, Deadlifts",High,4
+Muscle Gain,Pilates,37,410,"Pull-ups, Squats, Jump Rope, Burpees",High,3
+General Fitness,CrossFit,68,438,"Burpees, Plank, Jump Rope, Pull-ups",Low,5
+Endurance,CrossFit,35,476,"Burpees, Jump Rope, Push-ups, Plank",Medium,5
+Muscle Gain,HIIT,64,472,"Plank, Bench Press, Squats, Jump Rope",High,6
+Weight Loss,Strength Training,56,472,"Pull-ups, Deadlifts, Jump Rope, Squats",Low,5
+Muscle Gain,Yoga,65,558,"Burpees, Pull-ups, Bench Press, Squats",Low,6
+Muscle Gain,Strength Training,44,326,"Lunges, Deadlifts, Squats, Jump Rope",High,5
+Weight Loss,HIIT,76,562,"Lunges, Bench Press, Squats, Deadlifts",Low,6
+Muscle Gain,CrossFit,51,491,"Deadlifts, Push-ups, Pull-ups, Bench Press",Medium,6
+General Fitness,Strength Training,58,355,"Bench Press, Jump Rope, Burpees, Pull-ups",High,5
+Endurance,Yoga,57,597,"Jump Rope, Bench Press, Push-ups, Deadlifts",Medium,6
+General Fitness,Yoga,55,192,"Lunges, Deadlifts, Push-ups, Pull-ups",Low,4
+General Fitness,Pilates,69,167,"Push-ups, Deadlifts, Lunges, Burpees",Medium,6
+Weight Loss,Yoga,53,486,"Bench Press, Pull-ups, Squats, Plank",Medium,5
+Muscle Gain,HIIT,23,153,"Burpees, Jump Rope, Bench Press, Pull-ups",Medium,4
+Weight Loss,Yoga,60,369,"Jump Rope, Burpees, Bench Press, Lunges",Medium,6
+Weight Loss,Cardio,33,594,"Push-ups, Burpees, Lunges, Jump Rope",High,4
+General Fitness,Cardio,48,204,"Lunges, Squats, Pull-ups, Push-ups",Medium,6
+Muscle Gain,Cardio,69,429,"Lunges, Burpees, Squats, Pull-ups",Low,3
+Muscle Gain,HIIT,25,588,"Deadlifts, Push-ups, Squats, Plank",Low,5
+Muscle Gain,HIIT,41,341,"Burpees, Squats, Pull-ups, Push-ups",Medium,6
+Muscle Gain,CrossFit,78,372,"Squats, Bench Press, Lunges, Deadlifts",High,4
+Muscle Gain,Pilates,53,176,"Deadlifts, Lunges, Plank, Squats",High,4
+Weight Loss,Cardio,31,352,"Push-ups, Plank, Deadlifts, Pull-ups",High,6
+General Fitness,Yoga,33,213,"Plank, Lunges, Bench Press, Pull-ups",Medium,3
+Muscle Gain,HIIT,82,365,"Squats, Pull-ups, Push-ups, Lunges",Medium,3
+Endurance,Pilates,87,515,"Deadlifts, Push-ups, Burpees, Squats",Low,6
+Muscle Gain,CrossFit,84,311,"Squats, Lunges, Bench Press, Deadlifts",High,5
+Endurance,Strength Training,89,408,"Jump Rope, Squats, Push-ups, Burpees",High,3
+Endurance,Pilates,68,446,"Push-ups, Squats, Plank, Burpees",Low,6
+General Fitness,Cardio,54,529,"Pull-ups, Bench Press, Plank, Burpees",Medium,3
+Weight Loss,Strength Training,88,270,"Lunges, Squats, Deadlifts, Pull-ups",Low,3
+Muscle Gain,HIIT,62,570,"Pull-ups, Jump Rope, Deadlifts, Burpees",Low,5
+Muscle Gain,Cardio,73,294,"Lunges, Jump Rope, Plank, Deadlifts",High,6
+Endurance,CrossFit,31,229,"Squats, Deadlifts, Jump Rope, Pull-ups",Low,6
+Muscle Gain,Cardio,54,177,"Jump Rope, Bench Press, Pull-ups, Plank",Low,4
+Endurance,Pilates,26,448,"Push-ups, Pull-ups, Deadlifts, Plank",Low,4
+General Fitness,Pilates,48,184,"Squats, Burpees, Jump Rope, Bench Press",Low,5
+General Fitness,CrossFit,33,183,"Bench Press, Lunges, Jump Rope, Squats",Low,5
+Weight Loss,Strength Training,26,596,"Plank, Lunges, Deadlifts, Burpees",Medium,6
+General Fitness,Pilates,60,168,"Bench Press, Burpees, Push-ups, Plank",Low,3
+Muscle Gain,Pilates,73,277,"Bench Press, Push-ups, Burpees, Lunges",Low,4
+General Fitness,Yoga,87,318,"Squats, Push-ups, Burpees, Bench Press",Medium,3
+Muscle Gain,Strength Training,21,353,"Squats, Plank, Pull-ups, Deadlifts",Medium,4
+Muscle Gain,CrossFit,22,153,"Push-ups, Lunges, Squats, Deadlifts",Low,3
+Weight Loss,CrossFit,76,586,"Lunges, Pull-ups, Deadlifts, Push-ups",Low,3
+Weight Loss,Pilates,82,348,"Push-ups, Squats, Pull-ups, Jump Rope",Medium,6
+General Fitness,Yoga,30,365,"Bench Press, Lunges, Burpees, Pull-ups",High,4
+General Fitness,CrossFit,26,475,"Burpees, Pull-ups, Plank, Squats",High,5
+Endurance,Yoga,40,283,"Burpees, Squats, Push-ups, Pull-ups",Medium,6
+General Fitness,CrossFit,83,223,"Jump Rope, Bench Press, Burpees, Plank",Low,3
+Muscle Gain,Cardio,88,478,"Pull-ups, Bench Press, Lunges, Plank",Low,3
+Endurance,Pilates,24,260,"Burpees, Jump Rope, Bench Press, Plank",Low,5
+Muscle Gain,Cardio,68,377,"Squats, Jump Rope, Lunges, Burpees",Low,3
+Endurance,Strength Training,88,200,"Squats, Push-ups, Pull-ups, Plank",High,3
+Endurance,Yoga,45,273,"Push-ups, Burpees, Jump Rope, Deadlifts",Medium,5
+Muscle Gain,Cardio,28,159,"Push-ups, Lunges, Deadlifts, Jump Rope",High,3
+Endurance,Cardio,32,589,"Bench Press, Lunges, Burpees, Jump Rope",Medium,5
+Endurance,CrossFit,53,380,"Push-ups, Burpees, Plank, Bench Press",High,5
+Endurance,HIIT,44,445,"Lunges, Pull-ups, Plank, Deadlifts",High,3
+Endurance,Strength Training,84,408,"Bench Press, Jump Rope, Lunges, Push-ups",Low,5
+Endurance,Yoga,46,413,"Bench Press, Pull-ups, Jump Rope, Plank",Low,5
+General Fitness,Pilates,28,269,"Deadlifts, Bench Press, Pull-ups, Push-ups",High,5
+Weight Loss,CrossFit,38,284,"Bench Press, Lunges, Pull-ups, Jump Rope",Low,5
+Endurance,Strength Training,67,405,"Deadlifts, Squats, Plank, Bench Press",Medium,4
+Weight Loss,Pilates,49,293,"Push-ups, Deadlifts, Squats, Jump Rope",Medium,4
+Muscle Gain,CrossFit,40,281,"Push-ups, Plank, Deadlifts, Bench Press",Medium,6
+Weight Loss,CrossFit,35,526,"Bench Press, Push-ups, Pull-ups, Lunges",High,3
+Weight Loss,Yoga,67,332,"Burpees, Lunges, Deadlifts, Bench Press",High,5
+General Fitness,Yoga,76,323,"Plank, Lunges, Squats, Jump Rope",Medium,3
+Muscle Gain,Pilates,32,150,"Squats, Lunges, Plank, Bench Press",High,6
+General Fitness,Pilates,47,456,"Plank, Deadlifts, Push-ups, Lunges",High,6
+Weight Loss,CrossFit,75,423,"Deadlifts, Squats, Plank, Push-ups",Medium,6
+Weight Loss,Strength Training,49,559,"Jump Rope, Lunges, Squats, Push-ups",High,6
+Weight Loss,Strength Training,67,285,"Jump Rope, Pull-ups, Push-ups, Plank",High,6
+Endurance,HIIT,85,295,"Burpees, Squats, Jump Rope, Push-ups",High,5
+Weight Loss,Pilates,30,536,"Jump Rope, Burpees, Bench Press, Push-ups",Medium,4
+Endurance,Cardio,30,561,"Burpees, Deadlifts, Bench Press, Jump Rope",High,5
+Endurance,Strength Training,24,378,"Push-ups, Deadlifts, Bench Press, Lunges",High,4
+General Fitness,Yoga,49,504,"Lunges, Burpees, Pull-ups, Bench Press",Low,4
+Muscle Gain,CrossFit,59,368,"Deadlifts, Burpees, Push-ups, Squats",High,6
+Weight Loss,Strength Training,57,576,"Bench Press, Lunges, Burpees, Jump Rope",Medium,4
+General Fitness,HIIT,67,451,"Lunges, Deadlifts, Jump Rope, Push-ups",Medium,5
+General Fitness,HIIT,86,332,"Deadlifts, Lunges, Jump Rope, Bench Press",Medium,6
+Endurance,Yoga,59,548,"Jump Rope, Pull-ups, Lunges, Burpees",Low,5
+Endurance,Pilates,77,289,"Jump Rope, Bench Press, Plank, Burpees",Medium,3
+Endurance,Yoga,47,319,"Lunges, Plank, Deadlifts, Burpees",Low,4
+Weight Loss,Strength Training,55,194,"Deadlifts, Jump Rope, Lunges, Bench Press",Medium,6
+Endurance,HIIT,21,376,"Deadlifts, Plank, Bench Press, Jump Rope",Medium,5
+Weight Loss,Strength Training,73,539,"Bench Press, Squats, Burpees, Jump Rope",High,6
+Endurance,Yoga,34,527,"Lunges, Bench Press, Push-ups, Squats",High,5
+General Fitness,HIIT,65,179,"Burpees, Squats, Deadlifts, Lunges",High,6
+Weight Loss,Yoga,32,207,"Squats, Push-ups, Bench Press, Deadlifts",Low,6
+Weight Loss,HIIT,86,474,"Lunges, Squats, Push-ups, Burpees",Medium,5
+Weight Loss,HIIT,70,418,"Squats, Burpees, Lunges, Pull-ups",High,5
+General Fitness,HIIT,84,510,"Burpees, Lunges, Squats, Jump Rope",High,3
+General Fitness,Strength Training,67,477,"Push-ups, Pull-ups, Lunges, Burpees",High,3
+Weight Loss,HIIT,41,299,"Lunges, Bench Press, Squats, Jump Rope",Low,5
+Endurance,Pilates,54,494,"Plank, Lunges, Push-ups, Bench Press",Low,3
+Muscle Gain,CrossFit,76,554,"Pull-ups, Jump Rope, Deadlifts, Push-ups",Medium,5
+General Fitness,Yoga,58,567,"Lunges, Push-ups, Pull-ups, Plank",Medium,4
+Weight Loss,CrossFit,73,337,"Push-ups, Burpees, Deadlifts, Plank",Low,5
+Weight Loss,Yoga,47,592,"Deadlifts, Pull-ups, Squats, Plank",Low,4
+Endurance,Cardio,25,259,"Push-ups, Jump Rope, Squats, Bench Press",High,3
+Muscle Gain,Strength Training,51,433,"Deadlifts, Jump Rope, Burpees, Push-ups",High,6
+Weight Loss,Yoga,47,498,"Pull-ups, Lunges, Plank, Bench Press",Medium,3
+Muscle Gain,Yoga,63,181,"Push-ups, Bench Press, Deadlifts, Jump Rope",Low,5
+General Fitness,Yoga,71,438,"Pull-ups, Jump Rope, Deadlifts, Push-ups",Medium,3
+Muscle Gain,CrossFit,57,414,"Lunges, Squats, Plank, Bench Press",High,4
+Muscle Gain,CrossFit,40,359,"Jump Rope, Lunges, Squats, Pull-ups",Medium,5
+Weight Loss,Cardio,50,305,"Squats, Deadlifts, Push-ups, Pull-ups",Medium,4
+Weight Loss,Yoga,82,407,"Squats, Burpees, Jump Rope, Lunges",High,5
+Muscle Gain,HIIT,72,544,"Plank, Lunges, Squats, Bench Press",Low,3
+General Fitness,CrossFit,51,372,"Squats, Bench Press, Deadlifts, Plank",Low,5
+General Fitness,Yoga,24,213,"Bench Press, Lunges, Push-ups, Pull-ups",Low,4
+Endurance,Strength Training,42,270,"Pull-ups, Jump Rope, Deadlifts, Burpees",High,4
+Muscle Gain,Yoga,30,329,"Push-ups, Squats, Burpees, Bench Press",Medium,6
+Weight Loss,HIIT,46,472,"Plank, Lunges, Push-ups, Burpees",Medium,5
+Weight Loss,HIIT,84,597,"Squats, Jump Rope, Burpees, Lunges",High,6
+Endurance,Cardio,26,583,"Pull-ups, Push-ups, Lunges, Burpees",Low,4
+General Fitness,Pilates,89,206,"Burpees, Deadlifts, Pull-ups, Plank",High,4
+Endurance,Yoga,67,292,"Squats, Push-ups, Jump Rope, Plank",High,3
+General Fitness,Yoga,22,165,"Bench Press, Lunges, Burpees, Plank",Medium,5
+Muscle Gain,Cardio,51,585,"Lunges, Push-ups, Squats, Burpees",High,5
+General Fitness,CrossFit,77,219,"Deadlifts, Lunges, Jump Rope, Pull-ups",Medium,3
+Endurance,CrossFit,59,497,"Jump Rope, Plank, Deadlifts, Squats",Low,4
+Endurance,Strength Training,87,595,"Squats, Plank, Jump Rope, Deadlifts",High,3
