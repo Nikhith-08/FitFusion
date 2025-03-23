@@ -1,0 +1,201 @@
+Goal,Meal Type,Food Items,Calories,Protein (g),Fat (g),Carbohydrates (g),Recommended Portions,Hydration Level
+Muscle Gain,Breakfast,"Greek Yogurt, Berries, Honey",786,27,17,88,Large,High
+General Fitness,Lunch,"Greek Yogurt, Berries, Honey",309,47,21,91,Small,Low
+Weight Loss,Breakfast,"Tuna Salad, Whole Wheat Bread",373,13,28,23,Small,Moderate
+Muscle Gain,Breakfast,"Tuna Salad, Whole Wheat Bread",235,45,18,41,Large,High
+Weight Loss,Snack,"Scrambled Eggs, Avocado Toast",394,40,22,80,Medium,Moderate
+Muscle Gain,Lunch,"Protein Shake, Nuts",749,26,17,38,Small,Low
+Endurance,Breakfast,"Pasta with Chicken, Spinach, and Cheese",538,31,22,70,Large,Moderate
+Muscle Gain,Breakfast,"Protein Shake, Nuts",483,16,19,33,Large,Low
+Endurance,Lunch,"Grilled Chicken, Brown Rice, Broccoli",523,23,27,80,Small,Moderate
+Weight Loss,Snack,"Salmon, Quinoa, Asparagus",602,46,23,100,Small,Moderate
+General Fitness,Dinner,"Greek Yogurt, Berries, Honey",584,29,22,41,Small,Moderate
+Weight Loss,Breakfast,"Oatmeal, Banana, Almond Butter",692,33,15,96,Medium,Moderate
+Weight Loss,Snack,"Grilled Chicken, Brown Rice, Broccoli",592,26,16,89,Large,Moderate
+General Fitness,Breakfast,"Salmon, Quinoa, Asparagus",325,36,13,63,Medium,Low
+Weight Loss,Snack,"Grilled Chicken, Brown Rice, Broccoli",588,23,27,86,Medium,High
+Endurance,Breakfast,"Tuna Salad, Whole Wheat Bread",437,14,29,51,Small,Low
+Endurance,Lunch,"Beef Steak, Sweet Potato, Green Beans",560,43,7,97,Medium,High
+General Fitness,Snack,"Salmon, Quinoa, Asparagus",449,16,15,59,Small,Moderate
+Endurance,Snack,"Beef Steak, Sweet Potato, Green Beans",774,20,9,72,Small,Low
+Endurance,Lunch,"Salmon, Quinoa, Asparagus",275,14,12,59,Large,Low
+Weight Loss,Lunch,"Grilled Chicken, Brown Rice, Broccoli",466,31,5,52,Large,Low
+Muscle Gain,Breakfast,"Oatmeal, Banana, Almond Butter",250,32,9,71,Medium,Low
+General Fitness,Dinner,"Protein Shake, Nuts",775,38,7,98,Small,High
+Muscle Gain,Lunch,"Salmon, Quinoa, Asparagus",780,13,13,80,Medium,Moderate
+General Fitness,Breakfast,"Salmon, Quinoa, Asparagus",295,19,8,50,Large,Low
+Muscle Gain,Lunch,"Tuna Salad, Whole Wheat Bread",581,14,5,41,Small,Low
+Endurance,Snack,"Beef Steak, Sweet Potato, Green Beans",683,26,24,45,Medium,High
+General Fitness,Snack,"Salmon, Quinoa, Asparagus",695,48,22,87,Large,Moderate
+Muscle Gain,Breakfast,"Greek Yogurt, Berries, Honey",725,29,10,36,Large,Low
+Endurance,Lunch,"Tofu Stir-Fry, Vegetables, Rice",332,18,25,39,Small,High
+Weight Loss,Lunch,"Pasta with Chicken, Spinach, and Cheese",244,24,27,75,Medium,Moderate
+General Fitness,Dinner,"Salmon, Quinoa, Asparagus",401,44,22,68,Large,Low
+Weight Loss,Breakfast,"Tuna Salad, Whole Wheat Bread",440,37,30,33,Small,Low
+General Fitness,Snack,"Oatmeal, Banana, Almond Butter",719,30,17,69,Large,Low
+Endurance,Breakfast,"Scrambled Eggs, Avocado Toast",460,34,23,81,Small,Moderate
+Muscle Gain,Breakfast,"Scrambled Eggs, Avocado Toast",446,20,8,96,Medium,Moderate
+Muscle Gain,Lunch,"Tuna Salad, Whole Wheat Bread",501,11,22,34,Large,High
+Muscle Gain,Dinner,"Grilled Chicken, Brown Rice, Broccoli",772,11,24,92,Medium,Moderate
+General Fitness,Breakfast,"Salmon, Quinoa, Asparagus",485,41,14,91,Medium,Low
+General Fitness,Breakfast,"Grilled Chicken, Brown Rice, Broccoli",576,17,29,68,Small,High
+General Fitness,Breakfast,"Salmon, Quinoa, Asparagus",516,19,11,23,Small,Moderate
+Weight Loss,Dinner,"Beef Steak, Sweet Potato, Green Beans",468,43,21,80,Small,High
+General Fitness,Dinner,"Salmon, Quinoa, Asparagus",686,16,15,67,Small,High
+Endurance,Breakfast,"Protein Shake, Nuts",669,45,26,68,Small,Moderate
+Endurance,Lunch,"Protein Shake, Nuts",762,12,22,58,Large,Moderate
+Endurance,Snack,"Greek Yogurt, Berries, Honey",621,13,9,100,Small,High
+Endurance,Dinner,"Protein Shake, Nuts",236,24,27,82,Medium,Low
+Weight Loss,Snack,"Scrambled Eggs, Avocado Toast",395,32,11,20,Large,Low
+Muscle Gain,Dinner,"Beef Steak, Sweet Potato, Green Beans",589,25,10,77,Large,High
+Weight Loss,Breakfast,"Beef Steak, Sweet Potato, Green Beans",214,41,14,87,Small,High
+General Fitness,Lunch,"Tofu Stir-Fry, Vegetables, Rice",521,22,21,21,Large,Low
+Endurance,Lunch,"Scrambled Eggs, Avocado Toast",672,41,29,73,Small,Low
+Muscle Gain,Breakfast,"Grilled Chicken, Brown Rice, Broccoli",654,35,8,62,Medium,Low
+Muscle Gain,Dinner,"Scrambled Eggs, Avocado Toast",479,49,7,78,Small,High
+Endurance,Snack,"Protein Shake, Nuts",755,22,26,29,Medium,Moderate
+Endurance,Breakfast,"Pasta with Chicken, Spinach, and Cheese",773,38,28,44,Large,Moderate
+Endurance,Lunch,"Tofu Stir-Fry, Vegetables, Rice",592,14,10,67,Large,Moderate
+General Fitness,Snack,"Oatmeal, Banana, Almond Butter",718,15,22,73,Large,Low
+Endurance,Lunch,"Scrambled Eggs, Avocado Toast",366,39,23,30,Large,Moderate
+Endurance,Snack,"Greek Yogurt, Berries, Honey",377,12,21,80,Large,Low
+Endurance,Breakfast,"Grilled Chicken, Brown Rice, Broccoli",615,50,22,67,Small,Low
+Muscle Gain,Dinner,"Protein Shake, Nuts",601,16,10,52,Small,High
+General Fitness,Breakfast,"Tuna Salad, Whole Wheat Bread",254,47,27,56,Large,High
+Muscle Gain,Dinner,"Tofu Stir-Fry, Vegetables, Rice",513,15,14,60,Medium,High
+Weight Loss,Breakfast,"Scrambled Eggs, Avocado Toast",535,31,26,43,Large,Low
+Muscle Gain,Snack,"Salmon, Quinoa, Asparagus",423,21,26,98,Small,Moderate
+Muscle Gain,Breakfast,"Beef Steak, Sweet Potato, Green Beans",467,22,5,78,Large,Low
+Endurance,Dinner,"Pasta with Chicken, Spinach, and Cheese",209,41,30,50,Large,Low
+General Fitness,Lunch,"Salmon, Quinoa, Asparagus",677,23,28,96,Small,High
+Muscle Gain,Lunch,"Grilled Chicken, Brown Rice, Broccoli",277,20,15,84,Medium,High
+Endurance,Breakfast,"Greek Yogurt, Berries, Honey",739,14,27,60,Medium,Moderate
+General Fitness,Lunch,"Tofu Stir-Fry, Vegetables, Rice",489,12,12,78,Medium,Moderate
+Endurance,Breakfast,"Protein Shake, Nuts",599,46,7,81,Small,Low
+General Fitness,Snack,"Scrambled Eggs, Avocado Toast",536,17,17,76,Large,Moderate
+Muscle Gain,Breakfast,"Pasta with Chicken, Spinach, and Cheese",725,43,16,95,Small,Low
+Endurance,Snack,"Protein Shake, Nuts",325,32,6,36,Small,Moderate
+Endurance,Snack,"Protein Shake, Nuts",761,48,6,25,Medium,High
+Muscle Gain,Dinner,"Scrambled Eggs, Avocado Toast",254,23,24,29,Large,High
+Weight Loss,Snack,"Pasta with Chicken, Spinach, and Cheese",693,26,10,44,Small,Low
+Weight Loss,Dinner,"Tofu Stir-Fry, Vegetables, Rice",559,20,8,63,Small,Moderate
+Muscle Gain,Dinner,"Beef Steak, Sweet Potato, Green Beans",286,18,13,92,Small,High
+General Fitness,Dinner,"Salmon, Quinoa, Asparagus",776,37,23,44,Small,Moderate
+Endurance,Lunch,"Tuna Salad, Whole Wheat Bread",321,46,8,75,Small,Low
+Weight Loss,Snack,"Tuna Salad, Whole Wheat Bread",429,14,23,36,Large,Moderate
+General Fitness,Dinner,"Tofu Stir-Fry, Vegetables, Rice",688,45,30,99,Small,Low
+General Fitness,Breakfast,"Pasta with Chicken, Spinach, and Cheese",432,19,27,41,Small,Low
+Muscle Gain,Breakfast,"Pasta with Chicken, Spinach, and Cheese",436,23,25,29,Small,Moderate
+General Fitness,Dinner,"Greek Yogurt, Berries, Honey",766,47,21,79,Small,Moderate
+Weight Loss,Snack,"Salmon, Quinoa, Asparagus",706,32,27,31,Small,High
+Muscle Gain,Dinner,"Greek Yogurt, Berries, Honey",650,24,18,94,Medium,Low
+Endurance,Dinner,"Oatmeal, Banana, Almond Butter",260,36,12,54,Small,High
+Weight Loss,Snack,"Greek Yogurt, Berries, Honey",604,35,20,21,Large,High
+Endurance,Lunch,"Scrambled Eggs, Avocado Toast",527,35,6,46,Small,High
+Muscle Gain,Snack,"Salmon, Quinoa, Asparagus",408,47,10,65,Small,High
+Endurance,Lunch,"Protein Shake, Nuts",380,31,17,98,Large,Moderate
+Weight Loss,Snack,"Tofu Stir-Fry, Vegetables, Rice",615,18,21,40,Small,Low
+Endurance,Dinner,"Protein Shake, Nuts",407,11,20,63,Medium,Low
+Muscle Gain,Lunch,"Salmon, Quinoa, Asparagus",793,33,13,34,Large,Low
+Muscle Gain,Lunch,"Pasta with Chicken, Spinach, and Cheese",725,25,10,94,Medium,Moderate
+Muscle Gain,Lunch,"Scrambled Eggs, Avocado Toast",561,48,15,47,Large,High
+Endurance,Lunch,"Pasta with Chicken, Spinach, and Cheese",760,14,25,49,Small,Low
+Weight Loss,Dinner,"Tofu Stir-Fry, Vegetables, Rice",397,27,28,46,Large,Moderate
+Endurance,Snack,"Grilled Chicken, Brown Rice, Broccoli",390,24,28,40,Large,High
+General Fitness,Breakfast,"Grilled Chicken, Brown Rice, Broccoli",501,34,8,45,Large,High
+Endurance,Snack,"Pasta with Chicken, Spinach, and Cheese",379,39,11,53,Large,Low
+General Fitness,Lunch,"Beef Steak, Sweet Potato, Green Beans",456,30,17,84,Small,High
+Endurance,Lunch,"Tuna Salad, Whole Wheat Bread",531,17,15,85,Small,High
+Weight Loss,Breakfast,"Tofu Stir-Fry, Vegetables, Rice",778,39,6,25,Large,High
+Endurance,Breakfast,"Grilled Chicken, Brown Rice, Broccoli",478,46,24,63,Medium,Low
+Muscle Gain,Breakfast,"Tofu Stir-Fry, Vegetables, Rice",609,10,29,97,Medium,Moderate
+Muscle Gain,Lunch,"Tuna Salad, Whole Wheat Bread",420,11,7,87,Medium,High
+General Fitness,Lunch,"Salmon, Quinoa, Asparagus",206,16,9,54,Large,Moderate
+Weight Loss,Snack,"Protein Shake, Nuts",331,16,21,46,Medium,Moderate
+Weight Loss,Dinner,"Scrambled Eggs, Avocado Toast",760,15,28,58,Small,High
+Endurance,Snack,"Pasta with Chicken, Spinach, and Cheese",586,45,10,40,Medium,High
+Weight Loss,Dinner,"Greek Yogurt, Berries, Honey",211,40,27,94,Large,High
+General Fitness,Breakfast,"Scrambled Eggs, Avocado Toast",291,26,12,86,Small,Moderate
+Endurance,Snack,"Oatmeal, Banana, Almond Butter",488,29,20,40,Large,Low
+General Fitness,Snack,"Beef Steak, Sweet Potato, Green Beans",629,12,16,84,Large,Low
+Weight Loss,Breakfast,"Scrambled Eggs, Avocado Toast",508,25,13,59,Large,Low
+Weight Loss,Lunch,"Grilled Chicken, Brown Rice, Broccoli",619,25,29,48,Large,High
+Muscle Gain,Lunch,"Scrambled Eggs, Avocado Toast",202,12,30,84,Small,Low
+Weight Loss,Dinner,"Scrambled Eggs, Avocado Toast",332,20,12,68,Large,High
+Endurance,Snack,"Beef Steak, Sweet Potato, Green Beans",732,13,25,59,Medium,Moderate
+Endurance,Lunch,"Beef Steak, Sweet Potato, Green Beans",254,12,28,99,Large,High
+Endurance,Snack,"Grilled Chicken, Brown Rice, Broccoli",714,24,21,51,Small,High
+Endurance,Lunch,"Tofu Stir-Fry, Vegetables, Rice",446,14,14,44,Medium,High
+Endurance,Lunch,"Grilled Chicken, Brown Rice, Broccoli",571,20,6,34,Large,High
+General Fitness,Dinner,"Scrambled Eggs, Avocado Toast",696,27,7,83,Large,High
+Endurance,Lunch,"Salmon, Quinoa, Asparagus",529,39,30,65,Large,High
+General Fitness,Dinner,"Pasta with Chicken, Spinach, and Cheese",665,42,22,20,Small,Moderate
+Muscle Gain,Dinner,"Oatmeal, Banana, Almond Butter",479,24,19,92,Medium,Moderate
+Muscle Gain,Snack,"Salmon, Quinoa, Asparagus",545,30,28,63,Large,High
+Endurance,Snack,"Oatmeal, Banana, Almond Butter",457,23,9,63,Small,Low
+Muscle Gain,Snack,"Scrambled Eggs, Avocado Toast",768,49,6,88,Large,High
+Endurance,Dinner,"Grilled Chicken, Brown Rice, Broccoli",720,22,26,23,Small,Low
+Weight Loss,Snack,"Oatmeal, Banana, Almond Butter",480,48,21,67,Small,Moderate
+Muscle Gain,Breakfast,"Tuna Salad, Whole Wheat Bread",597,20,24,38,Small,High
+Weight Loss,Snack,"Scrambled Eggs, Avocado Toast",208,43,10,66,Small,High
+Endurance,Snack,"Pasta with Chicken, Spinach, and Cheese",662,13,26,73,Medium,Low
+Weight Loss,Snack,"Pasta with Chicken, Spinach, and Cheese",679,43,26,89,Small,High
+Muscle Gain,Dinner,"Tuna Salad, Whole Wheat Bread",363,21,30,89,Small,Moderate
+Weight Loss,Snack,"Pasta with Chicken, Spinach, and Cheese",717,16,6,43,Small,Moderate
+General Fitness,Lunch,"Oatmeal, Banana, Almond Butter",451,50,14,87,Large,Low
+Endurance,Dinner,"Scrambled Eggs, Avocado Toast",530,26,13,83,Small,Low
+Muscle Gain,Snack,"Tofu Stir-Fry, Vegetables, Rice",437,18,27,35,Small,High
+Endurance,Dinner,"Pasta with Chicken, Spinach, and Cheese",559,41,18,70,Small,Low
+Muscle Gain,Snack,"Grilled Chicken, Brown Rice, Broccoli",231,37,9,83,Small,Low
+Weight Loss,Lunch,"Tuna Salad, Whole Wheat Bread",669,40,13,80,Medium,High
+General Fitness,Dinner,"Beef Steak, Sweet Potato, Green Beans",200,27,21,30,Large,Moderate
+Endurance,Dinner,"Oatmeal, Banana, Almond Butter",387,14,13,56,Large,Moderate
+Endurance,Dinner,"Oatmeal, Banana, Almond Butter",582,48,16,32,Small,Low
+Muscle Gain,Breakfast,"Beef Steak, Sweet Potato, Green Beans",308,13,19,82,Medium,Low
+General Fitness,Lunch,"Protein Shake, Nuts",518,22,22,44,Medium,Low
+General Fitness,Snack,"Grilled Chicken, Brown Rice, Broccoli",679,41,10,72,Large,High
+Weight Loss,Lunch,"Oatmeal, Banana, Almond Butter",608,25,27,39,Large,High
+Weight Loss,Snack,"Tofu Stir-Fry, Vegetables, Rice",297,41,26,66,Large,Low
+General Fitness,Snack,"Salmon, Quinoa, Asparagus",438,11,14,31,Large,High
+Weight Loss,Snack,"Pasta with Chicken, Spinach, and Cheese",775,36,13,30,Small,High
+Muscle Gain,Lunch,"Protein Shake, Nuts",746,18,28,93,Large,High
+Muscle Gain,Dinner,"Protein Shake, Nuts",573,16,28,22,Medium,High
+Muscle Gain,Snack,"Greek Yogurt, Berries, Honey",367,32,10,28,Small,High
+Weight Loss,Lunch,"Tofu Stir-Fry, Vegetables, Rice",654,27,27,59,Medium,High
+General Fitness,Dinner,"Beef Steak, Sweet Potato, Green Beans",337,34,15,59,Small,Low
+General Fitness,Lunch,"Protein Shake, Nuts",229,20,29,46,Medium,Moderate
+Muscle Gain,Lunch,"Scrambled Eggs, Avocado Toast",379,31,18,63,Small,Moderate
+Endurance,Snack,"Tofu Stir-Fry, Vegetables, Rice",219,34,13,41,Medium,High
+General Fitness,Snack,"Protein Shake, Nuts",558,31,22,71,Medium,Moderate
+General Fitness,Dinner,"Pasta with Chicken, Spinach, and Cheese",266,41,25,55,Large,Moderate
+Weight Loss,Dinner,"Tofu Stir-Fry, Vegetables, Rice",667,10,13,33,Medium,High
+General Fitness,Dinner,"Protein Shake, Nuts",710,21,10,43,Medium,High
+Endurance,Snack,"Pasta with Chicken, Spinach, and Cheese",464,35,24,98,Small,Low
+Weight Loss,Snack,"Scrambled Eggs, Avocado Toast",520,37,18,71,Small,Moderate
+General Fitness,Breakfast,"Tuna Salad, Whole Wheat Bread",574,48,22,44,Small,High
+Endurance,Snack,"Scrambled Eggs, Avocado Toast",478,26,12,29,Small,High
+General Fitness,Lunch,"Oatmeal, Banana, Almond Butter",681,12,26,93,Small,Moderate
+Endurance,Snack,"Salmon, Quinoa, Asparagus",463,46,13,37,Medium,High
+Muscle Gain,Dinner,"Salmon, Quinoa, Asparagus",729,47,8,28,Medium,Moderate
+General Fitness,Lunch,"Oatmeal, Banana, Almond Butter",270,19,17,71,Medium,Low
+Weight Loss,Breakfast,"Tuna Salad, Whole Wheat Bread",648,42,30,100,Medium,High
+Weight Loss,Dinner,"Pasta with Chicken, Spinach, and Cheese",573,16,22,26,Small,Moderate
+General Fitness,Lunch,"Salmon, Quinoa, Asparagus",391,14,18,20,Medium,Low
+General Fitness,Breakfast,"Pasta with Chicken, Spinach, and Cheese",682,46,24,71,Small,High
+Muscle Gain,Breakfast,"Tuna Salad, Whole Wheat Bread",258,35,15,98,Small,High
+Weight Loss,Dinner,"Pasta with Chicken, Spinach, and Cheese",747,16,22,89,Large,High
+Muscle Gain,Snack,"Salmon, Quinoa, Asparagus",200,18,29,23,Small,Low
+Muscle Gain,Lunch,"Oatmeal, Banana, Almond Butter",581,29,17,61,Medium,Low
+Endurance,Snack,"Scrambled Eggs, Avocado Toast",295,22,25,41,Medium,Moderate
+Muscle Gain,Snack,"Tofu Stir-Fry, Vegetables, Rice",777,30,11,76,Small,High
+General Fitness,Lunch,"Tuna Salad, Whole Wheat Bread",422,46,8,66,Large,Moderate
+General Fitness,Dinner,"Scrambled Eggs, Avocado Toast",580,40,27,37,Medium,High
+Endurance,Dinner,"Oatmeal, Banana, Almond Butter",257,20,25,49,Large,Moderate
+Muscle Gain,Lunch,"Beef Steak, Sweet Potato, Green Beans",580,45,22,50,Small,Low
+Weight Loss,Snack,"Beef Steak, Sweet Potato, Green Beans",594,27,17,27,Large,Low
+Endurance,Lunch,"Tuna Salad, Whole Wheat Bread",699,15,18,92,Large,High
+Weight Loss,Breakfast,"Protein Shake, Nuts",592,39,19,74,Small,High
+Endurance,Lunch,"Beef Steak, Sweet Potato, Green Beans",372,17,5,41,Large,Moderate
+Muscle Gain,Breakfast,"Pasta with Chicken, Spinach, and Cheese",262,47,24,69,Medium,High
+Endurance,Lunch,"Beef Steak, Sweet Potato, Green Beans",234,39,26,60,Medium,Low
+Muscle Gain,Snack,"Greek Yogurt, Berries, Honey",661,14,6,27,Medium,High

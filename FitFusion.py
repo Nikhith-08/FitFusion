@@ -130,43 +130,18 @@ def get_random_quote():
     return random.choice(QUOTES)
 
 # Load workout and diet suggestion data
-workout_data = pd.read_csv("workout_recommendations.csv")
-diet_data = pd.read_csv("diet_recommendations.csv")
+workout_data = pd.read_csv("datasets\workout_recommendations.csv")
+diet_data = pd.read_csv("datasets\diet_recommendations.csv")
 
 # App Title
 st.title("🏋️‍♂️ Fitness Tracking Dashboard")
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to", ["Workout Tracker", "Diet Tracker", "Progress", "Motivation", "Suggest Workout & Diet"])
+page = st.sidebar.radio("Go to", ["Progress", "Suggest Workout & Diet", "Workout Tracker", "Diet Tracker",  "Motivation"])
 
-# Workout Tracker
-if page == "Workout Tracker":
-    st.header("Workout Tracking")
-    steps = st.number_input("Daily Steps Count", min_value=0)
-    total_time = st.number_input("Total Workout Time (mins)", min_value=0)
-    calories_burned = st.number_input("Calories Burned", min_value=0)
-    
-    st.metric("Steps Count", steps)
-    st.metric("Total Workout Time", total_time)
-    st.metric("Calories Burned", calories_burned)
-    
-    workout_log = st.file_uploader("Upload your workout log (CSV)", type=["csv"])
-    if workout_log:
-        df_workout = pd.read_csv(workout_log)
-        st.write("### Workout Log", df_workout)
-        st.plotly_chart(px.line(df_workout, x="Date", y="Calories Burned", title="Calories Burned Over Time"))
-    
-# Diet Tracker
-elif page == "Diet Tracker":
-    st.header("Diet Tracking")
-    diet_log = st.file_uploader("Upload your diet log (CSV)", type=["csv"])
-    
-    if diet_log:
-        df_diet = pd.read_csv(diet_log)
-        st.write("### Diet Log", df_diet)
-        st.plotly_chart(px.pie(df_diet, values='Calories', names='Food', title='Caloric Breakdown'))
-    
 # Progress Tracking
-elif page == "Progress":
+
+if page == "Progress":
+    
     st.header("Fitness Progress")
     weight = st.number_input("Current Weight (kg)", min_value=30.0)
     height = st.number_input("Height (cm)", min_value=100.0)
@@ -181,7 +156,9 @@ elif page == "Progress":
         st.write("### Progress Log", df_progress)
         st.plotly_chart(px.line(df_progress, x="Date", y="Weight", title="Weight Progress"))
 
+
 # Suggest Workout & Diet
+
 elif page == "Suggest Workout & Diet":
     st.header("Personalized Workout & Diet Plan")
     age = st.number_input("Age", min_value=10, max_value=100)
@@ -199,6 +176,37 @@ elif page == "Suggest Workout & Diet":
         
         st.subheader("Suggested Diet Plan")
         st.write(suggested_diet)
+  
+
+# Workout Tracker
+
+elif page == "Workout Tracker":
+    
+    st.header("Workout Tracking")
+    steps = st.number_input("Daily Steps Count", min_value=0)
+    total_time = st.number_input("Total Workout Time (mins)", min_value=0)
+    calories_burned = st.number_input("Calories Burned", min_value=0)
+    
+    st.metric("Steps Count", steps)
+    st.metric("Total Workout Time", total_time)
+    st.metric("Calories Burned", calories_burned)
+    
+    workout_log = st.file_uploader("Upload your workout log (CSV)", type=["csv"])
+    if workout_log:
+        df_workout = pd.read_csv(workout_log)
+        st.write("### Workout Log", df_workout)
+        st.plotly_chart(px.line(df_workout, x="Date", y="Calories Burned", title="Calories Burned Over Time"))
+
+# Diet Tracker
+
+elif page == "Diet Tracker":
+    st.header("Diet Tracking")
+    diet_log = st.file_uploader("Upload your diet log (CSV)", type=["csv"])
+    
+    if diet_log:
+        df_diet = pd.read_csv(diet_log)
+        st.write("### Diet Log", df_diet)
+        st.plotly_chart(px.pie(df_diet, values='Calories', names='Food', title='Caloric Breakdown'))
 
 # Motivation
 elif page == "Motivation":

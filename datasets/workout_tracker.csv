@@ -1,0 +1,201 @@
+Date,Exercise,Duration (mins),Calories Burned,Intensity
+2024-01-01,Push-ups,71,497,High
+2024-01-02,Running,87,609,Low
+2024-01-03,Cycling,37,296,Medium
+2024-01-04,Weight Lifting,10,80,High
+2024-01-05,Running,88,440,Medium
+2024-01-06,Squats,35,245,High
+2024-01-07,Weight Lifting,14,98,Low
+2024-01-08,Swimming,41,410,Low
+2024-01-09,Weight Lifting,33,198,Medium
+2024-01-10,Running,77,693,Low
+2024-01-11,Weight Lifting,42,336,Low
+2024-01-12,Cycling,12,108,Medium
+2024-01-13,Running,75,600,Medium
+2024-01-14,Running,68,612,Low
+2024-01-15,Yoga,55,550,Medium
+2024-01-16,Yoga,55,495,High
+2024-01-17,Squats,12,60,High
+2024-01-18,Yoga,34,272,High
+2024-01-19,Weight Lifting,40,200,Medium
+2024-01-20,Jump Rope,33,231,Low
+2024-01-21,Jump Rope,23,115,High
+2024-01-22,Weight Lifting,66,462,High
+2024-01-23,Squats,52,364,High
+2024-01-24,Weight Lifting,72,504,Low
+2024-01-25,Push-ups,48,384,High
+2024-01-26,Squats,45,270,Medium
+2024-01-27,Cycling,47,470,Medium
+2024-01-28,Push-ups,84,840,Low
+2024-01-29,Squats,35,245,High
+2024-01-30,Swimming,57,570,Low
+2024-01-31,Squats,14,98,High
+2024-02-01,Running,88,528,High
+2024-02-02,Push-ups,21,189,High
+2024-02-03,Weight Lifting,38,380,Low
+2024-02-04,Squats,36,216,Low
+2024-02-05,Squats,88,704,Low
+2024-02-06,Yoga,72,504,High
+2024-02-07,Running,70,490,Low
+2024-02-08,Running,53,477,High
+2024-02-09,Yoga,89,712,High
+2024-02-10,Jump Rope,27,162,High
+2024-02-11,Swimming,74,740,Medium
+2024-02-12,Yoga,42,336,High
+2024-02-13,Squats,41,246,Low
+2024-02-14,Yoga,21,147,Low
+2024-02-15,Jump Rope,77,385,Medium
+2024-02-16,Swimming,90,540,Medium
+2024-02-17,Swimming,64,384,Medium
+2024-02-18,Swimming,58,580,Medium
+2024-02-19,Squats,77,539,Medium
+2024-02-20,Push-ups,31,155,Low
+2024-02-21,Squats,42,420,Medium
+2024-02-22,Running,56,392,Low
+2024-02-23,Jump Rope,47,376,Medium
+2024-02-24,Running,42,210,High
+2024-02-25,Cycling,38,342,High
+2024-02-26,Swimming,69,414,High
+2024-02-27,Weight Lifting,36,180,High
+2024-02-28,Swimming,39,273,High
+2024-02-29,Weight Lifting,30,240,High
+2024-03-01,Swimming,40,240,High
+2024-03-02,Yoga,42,378,Medium
+2024-03-03,Yoga,62,496,Low
+2024-03-04,Squats,87,870,Low
+2024-03-05,Yoga,84,756,High
+2024-03-06,Running,25,250,Low
+2024-03-07,Push-ups,37,370,Low
+2024-03-08,Yoga,67,603,Low
+2024-03-09,Squats,42,294,Medium
+2024-03-10,Jump Rope,54,270,Medium
+2024-03-11,Yoga,62,558,Low
+2024-03-12,Push-ups,80,400,Medium
+2024-03-13,Swimming,11,66,Medium
+2024-03-14,Squats,81,729,Low
+2024-03-15,Cycling,10,70,Low
+2024-03-16,Weight Lifting,26,156,High
+2024-03-17,Swimming,59,472,High
+2024-03-18,Push-ups,78,624,Medium
+2024-03-19,Squats,78,546,Medium
+2024-03-20,Yoga,10,60,High
+2024-03-21,Push-ups,90,630,Medium
+2024-03-22,Yoga,10,50,High
+2024-03-23,Squats,80,640,Medium
+2024-03-24,Push-ups,10,70,Medium
+2024-03-25,Cycling,61,305,Medium
+2024-03-26,Jump Rope,70,350,Medium
+2024-03-27,Yoga,57,456,High
+2024-03-28,Running,28,168,Low
+2024-03-29,Weight Lifting,81,567,High
+2024-03-30,Push-ups,30,240,Medium
+2024-03-31,Weight Lifting,34,238,Medium
+2024-04-01,Yoga,34,170,Low
+2024-04-02,Yoga,76,760,High
+2024-04-03,Cycling,57,285,High
+2024-04-04,Cycling,44,352,High
+2024-04-05,Swimming,88,528,High
+2024-04-06,Cycling,44,308,Low
+2024-04-07,Squats,15,135,Low
+2024-04-08,Weight Lifting,81,405,Low
+2024-04-09,Yoga,66,462,High
+2024-04-10,Running,31,279,Medium
+2024-04-11,Push-ups,49,392,Medium
+2024-04-12,Weight Lifting,53,477,Medium
+2024-04-13,Running,57,342,Medium
+2024-04-14,Swimming,82,738,Low
+2024-04-15,Running,37,259,High
+2024-04-16,Weight Lifting,33,264,Low
+2024-04-17,Swimming,29,174,Low
+2024-04-18,Swimming,65,455,Low
+2024-04-19,Cycling,53,530,Medium
+2024-04-20,Yoga,85,765,Low
+2024-04-21,Running,76,456,Low
+2024-04-22,Jump Rope,51,255,Low
+2024-04-23,Squats,47,329,High
+2024-04-24,Jump Rope,79,790,Medium
+2024-04-25,Running,84,420,Low
+2024-04-26,Swimming,54,270,High
+2024-04-27,Yoga,34,170,High
+2024-04-28,Yoga,15,135,Low
+2024-04-29,Yoga,58,348,Medium
+2024-04-30,Running,19,114,High
+2024-05-01,Squats,31,217,High
+2024-05-02,Squats,43,215,High
+2024-05-03,Squats,88,528,Low
+2024-05-04,Jump Rope,48,432,High
+2024-05-05,Running,42,210,High
+2024-05-06,Yoga,39,390,High
+2024-05-07,Push-ups,59,295,Medium
+2024-05-08,Swimming,81,405,Low
+2024-05-09,Yoga,45,270,Low
+2024-05-10,Weight Lifting,41,246,High
+2024-05-11,Running,30,240,Medium
+2024-05-12,Cycling,13,91,Low
+2024-05-13,Cycling,50,300,Low
+2024-05-14,Swimming,58,406,Medium
+2024-05-15,Push-ups,85,510,Medium
+2024-05-16,Swimming,69,345,Medium
+2024-05-17,Running,10,50,Medium
+2024-05-18,Push-ups,45,450,Medium
+2024-05-19,Swimming,44,396,High
+2024-05-20,Squats,24,168,Medium
+2024-05-21,Push-ups,87,870,Medium
+2024-05-22,Running,72,720,High
+2024-05-23,Push-ups,34,272,Low
+2024-05-24,Yoga,34,238,Medium
+2024-05-25,Squats,71,497,High
+2024-05-26,Jump Rope,90,450,Low
+2024-05-27,Cycling,78,546,High
+2024-05-28,Squats,23,230,Low
+2024-05-29,Running,50,500,Medium
+2024-05-30,Running,51,459,High
+2024-05-31,Weight Lifting,33,330,High
+2024-06-01,Jump Rope,86,602,Low
+2024-06-02,Push-ups,44,220,Medium
+2024-06-03,Squats,65,455,Low
+2024-06-04,Squats,62,620,Low
+2024-06-05,Squats,77,693,High
+2024-06-06,Jump Rope,16,128,Low
+2024-06-07,Yoga,82,492,Medium
+2024-06-08,Jump Rope,77,539,Medium
+2024-06-09,Running,66,396,Medium
+2024-06-10,Cycling,70,700,Medium
+2024-06-11,Running,83,830,Low
+2024-06-12,Weight Lifting,74,666,Medium
+2024-06-13,Cycling,71,497,Low
+2024-06-14,Yoga,10,70,High
+2024-06-15,Squats,49,294,High
+2024-06-16,Squats,13,117,Low
+2024-06-17,Cycling,47,423,High
+2024-06-18,Yoga,80,720,High
+2024-06-19,Cycling,21,126,Low
+2024-06-20,Jump Rope,42,336,Low
+2024-06-21,Cycling,81,486,High
+2024-06-22,Cycling,55,440,Low
+2024-06-23,Running,12,84,High
+2024-06-24,Swimming,65,390,High
+2024-06-25,Jump Rope,64,448,High
+2024-06-26,Weight Lifting,66,528,Low
+2024-06-27,Weight Lifting,45,405,High
+2024-06-28,Squats,10,50,High
+2024-06-29,Swimming,58,406,High
+2024-06-30,Running,82,656,Medium
+2024-07-01,Running,54,270,Low
+2024-07-02,Jump Rope,22,132,Low
+2024-07-03,Squats,73,730,Low
+2024-07-04,Running,87,783,Low
+2024-07-05,Push-ups,25,125,Medium
+2024-07-06,Weight Lifting,38,228,Medium
+2024-07-07,Push-ups,68,476,Low
+2024-07-08,Yoga,13,78,Low
+2024-07-09,Squats,80,400,Low
+2024-07-10,Weight Lifting,60,540,High
+2024-07-11,Running,16,112,Low
+2024-07-12,Squats,90,720,Low
+2024-07-13,Swimming,67,603,Medium
+2024-07-14,Push-ups,47,376,Low
+2024-07-15,Swimming,24,216,High
+2024-07-16,Push-ups,19,114,High
+2024-07-17,Swimming,47,329,High
+2024-07-18,Swimming,46,322,Medium
